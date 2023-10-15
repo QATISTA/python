@@ -1,3 +1,5 @@
+# Open this URL on Google Chrome browser > https://www.discount-zone-tech.com/foot-massager/special-offer/?affid=25
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
